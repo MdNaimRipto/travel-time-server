@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "img": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sreemangal",
+        "description": "Srimangal/Sreemangal is a city in Sylhet Division in Bangladesh. Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal. The terraced tea gardens, plantations and evergreen hills of sreemangal are wonderful treats for the tourists. On the way, of Sreemangal by bus you’ll see a statue “cha konna” which is stands for welcome you. But if you come in sreemangal by train you’ll miss this statue. When you’ll come near in the tea garden you find the smell of tea leaves. When you’ll reach sreemangal you get many sorts of hotels. Tea Resort & Rest House also available here. After taken rest you can visit tea gardens. After that you can go BTRI, there is Tea factory. You can go “Nilkantha” tea stall near BDR camp here you’ll get seven layers tea which is very uncommon tea in Bangladesh. Don’t forget to visit “Tea museum” in “British karighor” tea resort. Lawasara, Madhabpur Lake is nearest tourist spots near Sreemangal.",
+        "img": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/129105/pexels-photo-129105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29087.557862293324!2d91.70753464204893!3d24.31356280557123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37517a7a9ac91745%3A0x50f827893a88c955!2sSreemangal!5e0!3m2!1sen!2sbd!4v1666573579954!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sundarban",
+        "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "img": "https://images.pexels.com/photos/13035525/pexels-photo-13035525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/2666806/pexels-photo-2666806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d946889.90594298!2d88.72646374071088!3d22.019405959511797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a004caac2c7b315%3A0x4716abcfbb16c93c!2sSundarbans!5e0!3m2!1sen!2sbd!4v1666573893983!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sajek Valley",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/1525079/pexels-photo-1525079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/45987/pexels-photo-45987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.0981860374527!2d92.28960421434122!3d23.384665008567314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3752feb9eb8c7313%3A0xf1d07a0cc84f174c!2sSajek%20Valley!5e0!3m2!1sen!2sbd!4v1666574072028!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bandarban",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59102.03235323326!2d92.14760694920771!3d22.206779400135797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad6a188414e62b%3A0xa4c3198f81ba90d0!2sBandarban!5e0!3m2!1sen!2sbd!4v1666574134002!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Kuakata",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "img": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35238.71590414994!2d90.11199499256776!3d21.818400199277022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30aa7d1b38a082bd%3A0xce33209b2416f816!2sKuakata!5e0!3m2!1sen!2sbd!4v1666574276194!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Saint Martin",
+        "description": "Srimangal/Sreemangal is a city in Sylhet Division in Bangladesh. Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal. The terraced tea gardens, plantations and evergreen hills of sreemangal are wonderful treats for the tourists. On the way, of Sreemangal by bus you’ll see a statue “cha konna” which is stands for welcome you. But if you come in sreemangal by train you’ll miss this statue. When you’ll come near in the tea garden you find the smell of tea leaves. When you’ll reach sreemangal you get many sorts of hotels. Tea Resort & Rest House also available here. After taken rest you can visit tea gardens. After that you can go BTRI, there is Tea factory. You can go “Nilkantha” tea stall near BDR camp here you’ll get seven layers tea which is very uncommon tea in Bangladesh. Don’t forget to visit “Tea museum” in “British karighor” tea resort. Lawasara, Madhabpur Lake is nearest tourist spots near Sreemangal.",
+        "img": "https://images.pexels.com/photos/2300396/pexels-photo-2300396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/1000982/pexels-photo-1000982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.171173999256!2d92.31808921949073!3d20.6253679555644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ae23666ddf01b1%3A0xfb9c82c83dacf078!2sSaint%20Martins%20Island!5e0!3m2!1sen!2sbd!4v1666574450661!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sundarban",
+        "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "img": "https://images.pexels.com/photos/13035525/pexels-photo-13035525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/2666806/pexels-photo-2666806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Sajek Valley",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/1525079/pexels-photo-1525079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/45987/pexels-photo-45987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bandarban",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Cox's Bazar",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "img": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sreemangal",
+        "description": "Srimangal/Sreemangal is a city in Sylhet Division in Bangladesh. Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal. The terraced tea gardens, plantations and evergreen hills of sreemangal are wonderful treats for the tourists. On the way, of Sreemangal by bus you’ll see a statue “cha konna” which is stands for welcome you. But if you come in sreemangal by train you’ll miss this statue. When you’ll come near in the tea garden you find the smell of tea leaves. When you’ll reach sreemangal you get many sorts of hotels. Tea Resort & Rest House also available here. After taken rest you can visit tea gardens. After that you can go BTRI, there is Tea factory. You can go “Nilkantha” tea stall near BDR camp here you’ll get seven layers tea which is very uncommon tea in Bangladesh. Don’t forget to visit “Tea museum” in “British karighor” tea resort. Lawasara, Madhabpur Lake is nearest tourist spots near Sreemangal.",
+        "img": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/129105/pexels-photo-129105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Sundarban",
+        "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "img": "https://images.pexels.com/photos/13035525/pexels-photo-13035525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/2666806/pexels-photo-2666806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Sajek Valley",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/1525079/pexels-photo-1525079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/45987/pexels-photo-45987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Bandarban",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day.",
+        "img": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bgImage": "https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14857.35212875501!2d91.97223691953153!3d21.415954398860688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc96118ced5b5%3A0xfeac4d792191e35e!2sCox's%20Bazar%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1666575003411!5m2!1sen!2sbd",
+        "hotels": [
+            {
+                "id": 1,
+                "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 2,
+                "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            },
+            {
+                "id": 3,
+                "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "rooms": "2 bedrooms, 2 bed, 2 baths",
+                "condition": "Wifi Air condition Kitchen",
+                "flexibility": "Cancellation fexibility availiable"
+            }
+        ]
+    }
+]
